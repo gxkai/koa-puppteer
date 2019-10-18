@@ -1,0 +1,15 @@
+{
+  "name": "koa-puppteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gxkai",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.10.0",
+    "koa-router": "^7.4.0"
+  }
+}
